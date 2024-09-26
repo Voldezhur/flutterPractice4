@@ -1,16 +1,20 @@
-# practice4
+# Программирование корпоративных систем практика 3 Журавлев Владимир ЭФБО-02-22
 
-A new Flutter project.
+# Скриншоты работы
+Главная страница
+![alt text](image.png)
 
-## Getting Started
+После удаления одной книги
+![alt text](<image copy.png>)
 
-This project is a starting point for a Flutter application.
+Станица добавления новой книги
+![alt text](<image copy 2.png>)
 
-A few resources to get you started if this is your first Flutter project:
+Заполнены поля формы
+![alt text](<image copy 3.png>)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Новая книга добавлена
+![alt text](<image copy 4.png>)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Страница новой книги
+![alt text](<image copy 5.png>)
